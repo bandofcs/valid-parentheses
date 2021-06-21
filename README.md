@@ -9,30 +9,30 @@ Open brackets must be closed in the correct order.
  
 
 **Example 1:**
-```
+```py
 Input: s = "()"
 Output: true
-```py
-**Example 2:**
 ```
+**Example 2:**
+```py
 Input: s = "()[]{}"
 Output: true
-```py
-**Example 3:**
 ```
+**Example 3:**
+```py
 Input: s = "(]"
 Output: false
-```py
-**Example 4:**
 ```
+**Example 4:**
+```py
 Input: s = "([)]"
 Output: false
-```py
-**Example 5:**
 ```
+**Example 5:**
+```py
 Input: s = "{[]}"
 Output: true
-```py 
+```
 
 **Constraints:**
 
